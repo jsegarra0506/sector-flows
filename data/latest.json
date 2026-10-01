@@ -1,26 +1,22 @@
 {
-  "generated_utc": "2026-10-01 01:43 UTC",
+  "generated_utc": "2026-10-01 10:31 UTC",
   "source": "State Street (SSGA) daily NAV history files; flow = change in shares outstanding x NAV",
   "funds_ok": 11,
   "funds": {
     "XLK": {
       "sector": "Technology",
-      "latest_date": "2026-09-29",
-      "nav": 194.4467,
-      "shares_outstanding": 650161794,
-      "aum_usd": 126421842616.0,
-      "flow_last_5_days_usd": -97057913.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 195.6735,
+      "shares_outstanding": 650561794,
+      "aum_usd": 127297695392.0,
+      "flow_last_5_days_usd": -175031915.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": 313830052.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": 27595822.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": -103435845.0
@@ -56,27 +52,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": -184724405.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": 78269395.0
         }
       ]
     },
     "XLF": {
       "sector": "Financials",
-      "latest_date": "2026-09-29",
-      "nav": 54.0008,
-      "shares_outstanding": 961095427,
-      "aum_usd": 51899881568.0,
-      "flow_last_5_days_usd": 1069289497.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 53.3679,
+      "shares_outstanding": 955045427,
+      "aum_usd": 50968728732.0,
+      "flow_last_5_days_usd": 471050394.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": 302197549.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": 55925906.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": -622947434.0
@@ -112,27 +108,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": 118801668.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": -322875541.0
         }
       ]
     },
     "XLE": {
       "sector": "Energy",
-      "latest_date": "2026-09-29",
-      "nav": 61.534,
-      "shares_outstanding": 641398400,
-      "aum_usd": 39467823256.0,
-      "flow_last_5_days_usd": -39890752.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 61.4531,
+      "shares_outstanding": 636748400,
+      "aum_usd": 39130155459.0,
+      "flow_last_5_days_usd": -484685761.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": 323899452.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": 60844078.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": -309425270.0
@@ -168,27 +164,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": -215369077.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": -285756859.0
         }
       ]
     },
     "XLV": {
       "sector": "Health Care",
-      "latest_date": "2026-09-29",
-      "nav": 170.6627,
-      "shares_outstanding": 257015324,
-      "aum_usd": 43862928364.0,
-      "flow_last_5_days_usd": 338712718.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 168.3111,
+      "shares_outstanding": 257815324,
+      "aum_usd": 43393189029.0,
+      "flow_last_5_days_usd": 237100129.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": -158002998.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": -150960074.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": -50641721.0
@@ -224,27 +220,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": -102397618.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": 134648906.0
         }
       ]
     },
     "XLI": {
       "sector": "Industrials",
-      "latest_date": "2026-09-29",
-      "nav": 169.0966,
-      "shares_outstanding": 178876000,
-      "aum_usd": 30247323064.0,
-      "flow_last_5_days_usd": -10213306.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 166.936,
+      "shares_outstanding": 178676000,
+      "aum_usd": 29827449053.0,
+      "flow_last_5_days_usd": 15931447.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": -264813327.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": 109617451.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": 16900260.0
@@ -280,27 +276,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": -25364490.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": -33387191.0
         }
       ]
     },
     "XLY": {
       "sector": "Consumer Discretionary",
-      "latest_date": "2026-09-29",
-      "nav": 109.1168,
-      "shares_outstanding": 197406504,
-      "aum_usd": 21540363647.0,
-      "flow_last_5_days_usd": 76520920.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 108.8378,
+      "shares_outstanding": 195456504,
+      "aum_usd": 21273047682.0,
+      "flow_last_5_days_usd": -174427060.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": 84000252.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": 611302069.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": 66838858.0
@@ -336,27 +332,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": -10911679.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": -212233628.0
         }
       ]
     },
     "XLP": {
       "sector": "Consumer Staples",
-      "latest_date": "2026-09-29",
-      "nav": 81.8265,
-      "shares_outstanding": 170171809,
-      "aum_usd": 13924566252.0,
-      "flow_last_5_days_usd": 218015110.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 80.5742,
+      "shares_outstanding": 166871809,
+      "aum_usd": 13445566851.0,
+      "flow_last_5_days_usd": -212773588.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": 63196090.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": -100021459.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": -96016879.0
@@ -392,27 +388,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": 81826516.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": -265894946.0
         }
       ]
     },
     "XLU": {
       "sector": "Utilities",
-      "latest_date": "2026-09-29",
-      "nav": 39.7141,
-      "shares_outstanding": 535348320,
-      "aum_usd": 21260882604.0,
-      "flow_last_5_days_usd": 479989821.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 39.4297,
+      "shares_outstanding": 540898320,
+      "aum_usd": 21327449293.0,
+      "flow_last_5_days_usd": 567609698.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": 703104584.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": -2066225.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": -152132420.0
@@ -448,27 +444,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": -21842761.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": 218834741.0
         }
       ]
     },
     "XLC": {
       "sector": "Communication Services",
-      "latest_date": "2026-09-29",
-      "nav": 111.4289,
-      "shares_outstanding": 203800000,
-      "aum_usd": 22709201872.0,
-      "flow_last_5_days_usd": -97888897.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 110.9506,
+      "shares_outstanding": 203050000,
+      "aum_usd": 22528514254.0,
+      "flow_last_5_days_usd": -175475636.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": 148013649.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": -39542729.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": 67406341.0
@@ -504,27 +500,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": -94714532.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": -83212931.0
         }
       ]
     },
     "XLB": {
       "sector": "Materials",
-      "latest_date": "2026-09-29",
-      "nav": 49.0781,
-      "shares_outstanding": 159797450,
-      "aum_usd": 7842555710.0,
-      "flow_last_5_days_usd": -162189635.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 48.6822,
+      "shares_outstanding": 159747450,
+      "aum_usd": 7776858429.0,
+      "flow_last_5_days_usd": -126934891.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": -128353103.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": 35262196.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": 25361335.0
@@ -560,27 +556,27 @@
         {
           "date": "2026-09-29",
           "flow_usd": -12269526.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": -2434110.0
         }
       ]
     },
     "XLRE": {
       "sector": "Real Estate",
-      "latest_date": "2026-09-29",
-      "nav": 41.3446,
-      "shares_outstanding": 186400000,
-      "aum_usd": 7706632322.0,
-      "flow_last_5_days_usd": 114226418.0,
-      "last_5_days_from": "2026-09-23",
-      "last_5_days_to": "2026-09-29",
+      "latest_date": "2026-09-30",
+      "nav": 40.9006,
+      "shares_outstanding": 187100000,
+      "aum_usd": 7652509557.0,
+      "flow_last_5_days_usd": 130300333.0,
+      "last_5_days_from": "2026-09-24",
+      "last_5_days_to": "2026-09-30",
       "flow_last_completed_week_usd": 119589940.0,
       "week_from": "2026-09-21",
       "week_to": "2026-09-25",
       "week_trading_days_found": 5,
       "daily_last_10": [
-        {
-          "date": "2026-09-16",
-          "flow_usd": -12834844.0
-        },
         {
           "date": "2026-09-17",
           "flow_usd": 352176208.0
@@ -616,6 +612,10 @@
         {
           "date": "2026-09-29",
           "flow_usd": 39277364.0
+        },
+        {
+          "date": "2026-09-30",
+          "flow_usd": 28630447.0
         }
       ]
     }
