@@ -1,4 +1,4 @@
-Sector SPDR flows - generated 2026-10-12 10:35 UTC
+Sector SPDR flows - generated 2026-10-13 01:49 UTC
 
 XLK Technology: data to 2026-10-09 | AUM $131.1B | last 5 days $+1,499M (1.1%) | week 2026-10-05..2026-10-09 $+1,499M (1.1%)
 XLF Financials: data to 2026-10-09 | AUM $51.7B | last 5 days $+502M (1.0%) | week 2026-10-05..2026-10-09 $+502M (1.0%)
